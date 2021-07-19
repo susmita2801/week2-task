@@ -1,0 +1,79 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 200px;
+  height: 270px;
+  margin: auto;
+  text-align: center;
+  padding: 50px;
+}
+
+.title {
+  color: grey;
+  font-size: 14px;
+  text-align:center;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #CB2B66;
+  text-align: center;
+  cursor: pointer;
+  width: 50%;
+  font-size: 10px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+
+
+.about{
+  padding: 30px;
+}
+
+
+
+.aboutme{
+   padding-left: 43%;
+   padding-right: 6%;
+}
+
+.portfolio{
+  padding-right: 6%;
+}
+
+.cv{
+  border-radius: 35%;
+  border-color: aliceblue;
+  background-color: aliceblue;
+  border-width: 7px;
+  height: 30px;
+  width: 100px;
+  border-spacing: 1px;
+  color:black;
+}
+
+.mywork{
+  padding: 70px;
+}
+
+.second{
+  height:500px;
+}
+
+
+.menu li{
+  list-style: none;
+  display: inline-block;
+}
